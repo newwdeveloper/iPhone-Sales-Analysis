@@ -50,7 +50,7 @@ The goal is to simulate a real-world business case by:
 
 ## 📄 Project Files
 
-- [`iPhone_Sales_Analysis.pdf`](./iPhone_Sales_Analysis.pdf) – Exported Power BI dashboard as PDF
+- [`iPhone_Sales_Analysis.pdf`](.https://github.com/newwdeveloper/iPhone-Sales-Analysis/blob/main/iPhone%20Sales%20Analysis%20revised.pdf) – Exported Power BI dashboard as PDF
 - `.pbix` file (Coming soon – if you want to share Power BI file later)
 - Sample data file (optional if you're comfortable sharing)
 
